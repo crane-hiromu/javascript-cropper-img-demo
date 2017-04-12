@@ -2,6 +2,9 @@
 You can trim the image like Amazon
 
 ## Description
+
+![1n4bkf.gif](https://qiita-image-store.s3.amazonaws.com/0/175242/f527da13-d6d9-4160-52c4-4410f04731df.gif)
+
 It's a demo.
 You can trim the image like Amazon in javascript.
 
